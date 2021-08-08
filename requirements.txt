@@ -1,0 +1,7 @@
+keras # pip install keras
+matplotlib # pip install matplotlib
+numpy # pip install numpy
+pandas # pip install pandas
+scikit-learn # pip install sklearn
+seaborn # pip install seaborn
+tensorflow # pip install tensorflow
